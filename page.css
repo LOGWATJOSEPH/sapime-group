@@ -6,11 +6,11 @@
 
 .main{
    background: url("h.jpg");
-   background-position-x: center;
+   
    background-position: center;
    background-size: cover;
    height: 1280px;
-   width: 640;
+   width: 1280px;
 }
 
 .icon{
