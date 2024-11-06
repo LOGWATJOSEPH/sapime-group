@@ -5,7 +5,7 @@
 }
 
 .main{
-   background: url("slogo.png");
+   background: url("h.jpg");
    
    background-position: center;
    background-size: cover;
@@ -19,6 +19,7 @@
     height: 70px;
 }
 .logo{
+    background: url(slogo.png);
     color: rgb(165, 101, 42);
     background-position: left;
     font-size: 35px;
