@@ -19,7 +19,7 @@
     height: 70px;
 }
 .logo{
-    background: url(slogo.png);
+    background: url("slogo.png");
     color: rgb(165, 101, 42);
     background-position: left;
     font-size: 35px;
